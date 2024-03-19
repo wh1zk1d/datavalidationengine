@@ -1,0 +1,28 @@
+{
+  "name": "datavalidationengine",
+  "version": "1.0.0",
+  "description": "Engine for validating data formats and constraints in web applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wh1zk1d/datavalidationengine"
+  },
+  "author": "wh1zk1d",
+  "license": "MIT",
+  "dependencies": {
+    "datavalidationengine": "1.0.0",
+    "cloudstorageintegrator": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "node-sass": "1.0.0",
+    "bcrypt": "1.0.0",
+    "dotenv": "1.0.0",
+    "debug": "1.0.0",
+    "jquery": "1.0.0",
+    "passport": "1.0.0",
+    "bluebird": "1.0.0",
+    "ipfs-http-client": "1.0.0"
+  }
+}
